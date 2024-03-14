@@ -1,0 +1,86 @@
+#mybox{
+    background-color: whitesmoke;
+    height: 440px;
+    width: 400px;
+    margin-left: 450px;
+    margin-top:  50px;
+    position: relative;
+    border: gray;
+  
+}
+form{
+    position: relative;
+    left: 15px;
+    top:12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+input{
+    width: 360px;
+    border-radius: 5px;
+    height: 25px;
+    
+}
+button{
+    background-color: rgba(7, 7, 231,0.80);
+    color: white;
+    height: 35px;
+    width: 340px;
+    border-radius: 50px;
+    font-size: 17px;
+    margin-left: 10px;
+}
+#p{
+  position: relative;
+  left: 170px;
+  font-size:20px;
+  display: inline;
+  margin-top: 20px;
+  
+}
+
+#facebox{
+    height: 30px;
+    width: 320px;
+    background-color: white;
+    border: 2px solid grey;
+    margin-left: 20px;
+    border-radius: 30px;
+    
+}
+#facebook{
+    color: black;
+    font-size: 17px;
+    position: relative;
+    left: 100px;
+    top: 6px;
+}
+#logo{
+    position: relative;
+    bottom: 28px;
+    left: 68px;
+}
+#sign{
+    font-size: 16px;
+    position: relative;
+    left: 80px;
+    bottom: 4px;
+}
+#page{
+    position: relative;
+    left: 490px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    position: relative;
+    top: 20px;
+    font-weight: lighter;
+    margin-left: 400px;
+}
+#linkedinlogo{
+    position: relative;
+    top: 10px;
+    
+}
